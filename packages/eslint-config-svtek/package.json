@@ -1,0 +1,50 @@
+{
+  "name": "eslint-config-svtek",
+  "version": "0.0.1-0",
+  "description": "SVTek's base ESLint config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/svtek/javascript"
+  },
+  "scripts": {
+    "test": "eslint ."
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "svtek",
+    "javascript"
+  ],
+  "author": "Alican Çubukçuoğlu (https://twitter.com/AlicanC)",
+  "contributors": [
+    {
+      "name": "Alican Çubukçuoğlu",
+      "url": "https://twitter.com/AlicanC"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/svtek/javascript/issues"
+  },
+  "homepage": "https://github.com/svtek/javascript",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^11.3.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^3.19.0 || ^4.5.0",
+    "eslint-plugin-flowtype": "^2.33.0",
+    "eslint-plugin-import": "^2.7.0",
+    "prettier-eslint": "^7.1.0"
+  },
+  "peerDependencies": {
+    "eslint": "^3.19.0 || ^4.5.0",
+    "eslint-plugin-flowtype": "^2.33.0",
+    "eslint-plugin-import": "^2.7.0"
+  },
+  "engines": {
+    "node": ">= 4"
+  }
+}
