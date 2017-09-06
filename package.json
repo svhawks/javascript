@@ -5,7 +5,9 @@
   "repository": "git@github.com:svtek/javascript.git",
   "author": "Alican Çubukçuoğlu <alicancubukcuoglu@gmail.com>",
   "license": "MIT",
-  "workspaces": ["packages/*"],
+  "workspaces": [
+    "packages/*"
+  ],
   "devDependencies": {
     "eslint": "^4.5.0",
     "eslint-plugin-flowtype": "^2.35.1",

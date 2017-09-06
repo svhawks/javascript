@@ -31,7 +31,7 @@
   "homepage": "https://github.com/svtek/javascript",
   "dependencies": {
     "eslint-config-airbnb": "^15.1.0",
-    "eslint-config-svtek": "^1.0.0"
+    "eslint-config-svtek": "^0.0.1"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
