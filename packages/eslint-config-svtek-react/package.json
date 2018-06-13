@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-svtek-react",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "SVTek's React ESLint config",
   "main": "index.js",
   "repository": {
@@ -31,7 +31,7 @@
   "homepage": "https://github.com/svtek/javascript",
   "dependencies": {
     "eslint-config-airbnb": "^16.1.0",
-    "eslint-config-svtek": "^0.3.0"
+    "eslint-config-svtek": "^0.4.0"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.1",
